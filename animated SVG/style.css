@@ -55,7 +55,7 @@ svg {
 
 @keyframes moveHat {
   from {
-    transform: translateY(0) rotateZ(0deg);
+ .   transform: translateY(0) rotateZ(0deg);
   }
   to {
     transform: translateY(20%) rotateZ(10deg);
